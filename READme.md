@@ -32,6 +32,7 @@ The dataset was scraped from ..... using **BeautifulSoup** and **requests**. The
 - **Column 5**
 - **Column 6**
 - **Column 7**
+- **Column 8**
 
 The scraping script extracts this data and saves it in a **CSV file**.
 
